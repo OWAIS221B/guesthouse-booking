@@ -1,2 +1,3 @@
 # guesthouse-booking
-App for guesthouse booking
+
+# App for guesthouse booking.
